@@ -1,14 +1,14 @@
 ![https://plcdeveloper.com](/wp-content/uploads/2023/09/Azul-y-Morado-Casual-Corporativo-Desarrollo-de-App-Startup-Banner-Apaisado-1024x512.png)
 
 # Retos de programación de PLC
-### Proyecto de retos semanales de la comunidad **[MoureDev](https://moure.dev)** para practicar lógica de programación utilizando cualquier lenguaje.
+### Proyecto de retos de la comunidad **[PLC.Dev](https://plcdeveloper.com)** para practicar lógica de programación utilizando lenguajes programables en PLC.
 > #### Tienes toda la información en **[https://plcdeveloper.com/retos-de-programacion/)**
 
-## Información importante
+## Categorias
 
-* Cada semana se publica un nuevo reto y se corrige en directo desde **[Twitch](https://twitch.tv/mouredev)** el reto de la semana pasada.
-* En la sección "Eventos" de nuestro servidor de **[Discord](https://discord.gg/mouredev)** encontrarás el día y horario por país de los directos.
-* Puedes utilizar **cualquier lenguaje de programación**, y encontrar tanto mis correcciones como las de la comunidad en el directorio de cada reto.
-* **¿Quieres participar?** Te lo explico en la sección **[¿Cómo puedo participar?](https://github.com/mouredev/retos-programacion-2023#c%C3%B3mo-puedo-participar)** en este mismo documento.
-* Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
-* Una vez se haya cumplido la semana de publicación del reto, podrás consultar mi corrección y las de la comunidad en cualquier lenguaje de programación.
+* Retos de programación de CodeAbbey adaptados a programación en PLC.
+* PLC Codewars (Próximanente).
+* 100 days code challenge (Próximanente).
+* Funciones reutilizables (Próximanente).
+* Juegos en SCL (Próximanente).
+* Retos interesantes (Próximanente).

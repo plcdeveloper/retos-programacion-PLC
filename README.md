@@ -1,4 +1,4 @@
-![https://retosdeprogramacion.com/semanales2023](./Images/header.jpg)
+![https://plcdeveloper.com/wp-content/uploads/2023/09/Azul-y-Morado-Casual-Corporativo-Desarrollo-de-App-Startup-Banner-Apaisado-1024x512.png)
 
 # Retos de programación de PLC
 ### Proyecto de retos semanales de la comunidad **[MoureDev](https://moure.dev)** para practicar lógica de programación utilizando cualquier lenguaje.
